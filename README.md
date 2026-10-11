@@ -1,4 +1,4 @@
-# To-Do API
+# To-Do APP
 
 A task-management REST API built with **Node.js, Express.js, MongoDB, and Mongoose**. Create, retrieve, update, and delete tasks, track completion, and store task data in MongoDB.
 
